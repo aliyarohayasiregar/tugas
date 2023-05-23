@@ -1,0 +1,11 @@
+{
+  "name": "tugas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soal-1.js",
+  "scripts": {
+    "mulai": "node soal-1.js && node soal-2.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
