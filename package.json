@@ -4,7 +4,7 @@
   "description": "",
   "main": "soal-1.js",
   "scripts": {
-    "mulai": "node soal-1.js && node soal-2.js"
+    "mulai": "node soal-1.js && node soal-2.js&& echo \"Berhasil\""
   },
   "author": "",
   "license": "ISC"
